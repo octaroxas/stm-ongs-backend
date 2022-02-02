@@ -20,6 +20,6 @@
   },
   "scripts": {
     "dev": "nodemon src/server.js",
-    "run": "src/server.js"
+    "start": "src/server.js"
   }
 }
